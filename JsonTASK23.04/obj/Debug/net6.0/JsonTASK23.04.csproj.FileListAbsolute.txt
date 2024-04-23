@@ -1,0 +1,17 @@
+C:\Users\Qarib\Desktop\c#\JsonTASK23.04\bin\Debug\net6.0\JsonTASK23.04.exe
+C:\Users\Qarib\Desktop\c#\JsonTASK23.04\bin\Debug\net6.0\JsonTASK23.04.deps.json
+C:\Users\Qarib\Desktop\c#\JsonTASK23.04\bin\Debug\net6.0\JsonTASK23.04.runtimeconfig.json
+C:\Users\Qarib\Desktop\c#\JsonTASK23.04\bin\Debug\net6.0\JsonTASK23.04.dll
+C:\Users\Qarib\Desktop\c#\JsonTASK23.04\bin\Debug\net6.0\JsonTASK23.04.pdb
+C:\Users\Qarib\Desktop\c#\JsonTASK23.04\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Qarib\Desktop\c#\JsonTASK23.04\obj\Debug\net6.0\JsonTASK23.04.csproj.AssemblyReference.cache
+C:\Users\Qarib\Desktop\c#\JsonTASK23.04\obj\Debug\net6.0\JsonTASK23.04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Qarib\Desktop\c#\JsonTASK23.04\obj\Debug\net6.0\JsonTASK23.04.AssemblyInfoInputs.cache
+C:\Users\Qarib\Desktop\c#\JsonTASK23.04\obj\Debug\net6.0\JsonTASK23.04.AssemblyInfo.cs
+C:\Users\Qarib\Desktop\c#\JsonTASK23.04\obj\Debug\net6.0\JsonTASK23.04.csproj.CoreCompileInputs.cache
+C:\Users\Qarib\Desktop\c#\JsonTASK23.04\obj\Debug\net6.0\JsonTASK.EDC94462.Up2Date
+C:\Users\Qarib\Desktop\c#\JsonTASK23.04\obj\Debug\net6.0\JsonTASK23.04.dll
+C:\Users\Qarib\Desktop\c#\JsonTASK23.04\obj\Debug\net6.0\refint\JsonTASK23.04.dll
+C:\Users\Qarib\Desktop\c#\JsonTASK23.04\obj\Debug\net6.0\JsonTASK23.04.pdb
+C:\Users\Qarib\Desktop\c#\JsonTASK23.04\obj\Debug\net6.0\JsonTASK23.04.genruntimeconfig.cache
+C:\Users\Qarib\Desktop\c#\JsonTASK23.04\obj\Debug\net6.0\ref\JsonTASK23.04.dll

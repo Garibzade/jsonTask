@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "byMQ/a0hNiii52JU1i0S5bmn97TyvcEDntES/qsPfNoOzEvl3BLhmyqkBlsphD8vUkRU3b0dh4EyB1rlTWdVyw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Qarib\\Desktop\\c#\\JsonTASK23.04\\JsonTASK23.04.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Qarib\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
